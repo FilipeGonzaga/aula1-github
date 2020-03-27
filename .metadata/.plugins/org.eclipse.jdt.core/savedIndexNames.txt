@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+D:\dimi_\Area de Trabalho\aulas\git-course\.metadata\.plugins\org.eclipse.jdt.core
-3729101479.index
-2103231971.index
